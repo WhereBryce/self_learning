@@ -1,4 +1,4 @@
-const CACHE_NAME = "mfn-learning-v1";
+const CACHE_NAME = "mfn-learning-v2";
 const APP_SHELL = [
   "./",
   "./index.html",
