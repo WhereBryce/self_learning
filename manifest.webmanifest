@@ -1,0 +1,11 @@
+{
+  "name": "MFN 跨境物流学习手册",
+  "short_name": "MFN 学习手册",
+  "description": "巴西为主、墨西哥为辅的 MFN 跨境物流学习手册与加密学习笔记。",
+  "lang": "zh-CN",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f7f9",
+  "theme_color": "#102a43"
+}
